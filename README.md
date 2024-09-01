@@ -1,15 +1,26 @@
-# Brainwave
+<div align="center">
+      <img src="src/assets/brainwave-symbol.svg" alt="Brainwave Icon" width="45px">
+  <h1>Brainwave</h1>
+</div>
+<div align="center">
+  <br />
+    <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
+      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
+    </a>
+  <br />
+  <br />
+</div>
 
-This project serves as a foundational setup for integrating React with Vite, focusing on a minimal configuration that supports Hot Module Replacement (HMR) and includes basic ESLint rules. The primary goal of building this website is to learn and implement React effectively.
+## Purpose
 
-## Overview
+This project was developed as a learning exercise to explore and understand the fundamentals of **React** and modern web development practices. It aims to provide hands-on experience in setting up and working with a **React application**.
 
-This template offers a streamlined environment to kickstart your React projects using Vite. It includes two official plugins that enable fast and efficient development:
+---
 
-- **[@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)**: Utilizes [Babel](https://babeljs.io/) to provide Fast Refresh, ensuring a smooth development experience.
-- **[@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc)**: Leverages [SWC](https://swc.rs/) for Fast Refresh, offering a modern alternative to Babel with faster build times.
+The project serves as a foundational setup for integrating **React** with **Vite**, focusing on minimal configuration that supports **Hot Module Replacement (HMR)** and includes basic **ESLint rules**. The primary objective is to facilitate learning and effectively implementing **React** within a modern development environment.
 
 ## Technologies Used
+
 <p align="center">
   <img src="https://www.svgrepo.com/show/353884/html-5.svg" width="50px">
   <img src="https://www.svgrepo.com/show/353623/css-3.svg" width="50px">
@@ -19,9 +30,56 @@ This template offers a streamlined environment to kickstart your React projects 
   <img src="https://www.svgrepo.com/show/374167/vite.svg" width="50px">
 </p>
 
-## Objective
+## <a name="features">🔋 Features</a>
 
-The primary purpose of this project is to facilitate learning and experimentation with Tailwind CSS. By integrating Tailwind into this React + Vite setup, you can explore its capabilities and build responsive, utility-first user interfaces efficiently.
+👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+
+👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
+
+👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
+
+👉 **Latest UI Trends**: Incorporates modern design elements such as bento grids.
+
+👉 **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+
+👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
+
+and many more, including code architecture and reusability
+
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/Majeed-Alberawi/brainwave.git
+cd brainwave
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 ## Reference
 
